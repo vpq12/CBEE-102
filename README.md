@@ -1,2 +1,2 @@
 # CBEE-102
-MatLab beginners 
+Introduction to MatLab 
