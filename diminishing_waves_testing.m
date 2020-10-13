@@ -9,7 +9,7 @@ y = [-scale*pi:incr:scale*pi];
 for i=1:length(y)
     %loop thru x 
     for idx=1:length(x)
-        z(i,idx)=periodicity(x(i),y(i));
+        z(i,idx)=diminishing_waves(x(i),y(i));
     end
 end
 
